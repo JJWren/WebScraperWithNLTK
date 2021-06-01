@@ -2,7 +2,6 @@
 import requests
 import os
 import re   # regex
-import requests
 
 # Import Python 3rd Party Libraries
 from bs4 import BeautifulSoup
